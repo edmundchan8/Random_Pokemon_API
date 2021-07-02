@@ -1,0 +1,13 @@
+Hi there Pokemon Trainer!
+
+We're letting you know that you've just encountered a rare Pokemon!
+
+The details of this pokemon are as follows:
+
+Pokemon Image: [POKEMON_SPRITE]
+
+Pokemon Name: [POKEMON_NAME]
+Pokemon Type: [POKEMON_TYPE]
+Pokemon Height: [POKEMON_HEIGHT] (ft)
+Pokemon Weight: [POKEMON_WEIGHT] (lb)
+Pokemon Moves: [POKEMON_MOVES]
